@@ -1,0 +1,4 @@
+2019-08-14 11:57:21,269 INFO hello.py 91 infomsg
+2019-08-14 11:57:49,555 WARNING hello.py 91 warnmsg
+2019-08-14 11:58:09,429 ERROR hello.py 91 errormsg
+2019-08-14 12:01:47,262 INFO hello.py 79 login success

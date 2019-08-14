@@ -1,0 +1,2 @@
+2019-08-14 11:57:49,555 WARNING hello.py 91 warnmsg
+2019-08-14 11:58:09,429 ERROR hello.py 91 errormsg
